@@ -2,7 +2,7 @@
 
 > Banking Website built on Django designed with Bootstrap
 ## Demo:
-![](screenshot/bank.png)
+![](bank.png)
 ## Installation:
 **1.Clone Repo**
 ```sh
